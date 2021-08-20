@@ -4,6 +4,7 @@ package finalpartc;
  * This class is for the final exam part C.
  *
  * @author Paul Bonenfant, April 2021
+ * @Muhammad Urzam, August 2021
  */
 public class FinalPartC {
 
